@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bK7NEtg8B2mSasamBMz9MZ9+ukzlQXG3Lo3HrhmP5CDUm4fFpSVRQoqAFip9jelNmXeRJ2iVD1wYZr5nWL2H8g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pushkar\\Desktop\\dummy_biofuel_pipeline_project\\dummy_biofuel_pipeline_project\\dummy_biofuel_pipeline_project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pushkar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.17\\microsoft.netcore.app.host.win-x64.3.1.17.nupkg.sha512"
+  ],
+  "logs": []
+}
